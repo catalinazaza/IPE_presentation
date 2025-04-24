@@ -63,3 +63,20 @@ setwd("C:/Users/catal/OneDrive/Escritorio/PL362/econ/images")
 # Results {.smaller}
 
 ![Busemeyer, 2004, p.18](C:/Users/catal/OneDrive/Escritorio/PL362/econ/images/table2.jpg){}
+
+#
+
+-   The positive effects of globalization on public and social spending have weakened over time.
+
+-   In the 1980s and early 1990s, globalization may have contributed to welfare expansion.
+
+-   But from the 2000s, the negative scenario becomes more prominent.
+
+-   It's essential to study globalization across longer time periods, including the 2000s.
+
+-   Pay attention to both cross-sectional and over-time dimensions.
+
+# Question
+
+-   Given that the positive relationship between globalization and social spending seems to weaken over time, can we still argue that economic openness strengthens the welfare state? Or is this a temporary compensation effect that fades as globalization deepens?
+
