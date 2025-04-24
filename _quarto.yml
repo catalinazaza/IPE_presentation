@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "From myth to reality Globalisation and public spending in OECD countries revisited" 
+subtitle: "Busemeyer, Marius R. (2009)"
+format:
+  revealjs:
+    theme: sky
+    self-contained: true
+    show-slide-number: print
+    number-sections: true
+    slide-number: c/t
+    date: "21/4/2025"
+    footer: "Catalina Zaza"
+
+editor: visual
+
